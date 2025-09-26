@@ -1,7 +1,7 @@
 # 📝 Relatório do Laboratório 1 - Introdução ao Linux
 
-**Nome:** [Seu nome aqui]  
-**RA:** [Seu RA aqui]  
+**Nome:** Julia Rodrigues Lisboa  
+**RA:** 10743718  
 
 ---
 
